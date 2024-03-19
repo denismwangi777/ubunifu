@@ -1,0 +1,544 @@
+.body{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    height: 100vh;
+    width: 100%;
+    background-image: url(/images/main8.jpg);
+    background-size: cover;
+}
+.in{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.28);
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+.navbar img{
+    height: 90px;
+    margin-top: 1%;
+    margin-right: 20%;
+}
+.List{
+    height: 70%;
+    width: 50%;
+    display: flex;
+    font-size: small;
+    list-style: none;
+    justify-content: flex-end;
+    margin: 20px;
+}
+
+.List1{
+    margin: 10px;
+}
+.List button{
+    height: 35%;
+    width: 15%;
+    border: none;
+    border-radius: 20px;
+    margin-top: 0.5%;
+    margin-left: 4%;
+    background-color: white;
+}
+    height: 15%;
+    width: 100%;
+.end{
+    height: 15%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.end h3{
+    font-size: 80px;
+    text-align: center;    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+}
+.end h5{
+    font-size: 15px;
+    font-weight: 50;
+    margin-left: 40%;
+    color: white;
+}
+.end button{
+    height: 50%;
+    width: 15%;
+    margin-left: 43%;
+    border-radius: 50px;
+    color: white;
+    background-color: crimson;
+    border: none;
+}
+.fix{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+.start{
+    height: 60%;
+    width: 35%;
+    background-color: azure;
+    margin-top: 3%;
+    margin-left: 10%;
+}    
+.start h6{
+  font-size: 11px;
+  margin-left: 5%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.start h3{
+    font-size: 40px;
+    margin-top: 2.5%;
+    width: 45%;
+    margin-left: 5%;
+}
+.start p{
+    justify-content: space-between;
+    margin: 30px;
+}
+.start button{
+    font-size: 15px;
+    height: 7%;
+    width: 55%;
+    border-radius: 20px;
+    border: 2px;
+    margin-left: 5%;
+    background-color: blue;
+    color: white;
+}    
+.done{
+    height: 100vh;
+    width: 50%;
+    margin-left: 8%;
+}
+.inn{
+    height: 50%;
+    width: 70%;
+    border-radius: 3%;
+    background-color: blueviolet;
+}
+.inn h4{
+    font-size: larger;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+.inn p{
+    font-size: medium;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.come{
+    height: 50%;
+    width: 70%;
+    background-color: blue;
+    margin-top: 10%;
+    border-radius: 3%;
+}
+.come h4{
+    font-size: medium;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.come p{
+    font-weight: 500px;
+    display: flex;
+    align-items: center;
+    flex-direction: column
+}
+
+.over{
+    height: 100vh;
+    width: 50%;
+}
+.over1{
+    height: 50%;
+    width: 70%;
+    border-radius: 3%;
+    background-color: bisque;
+    margin-top: 8%;
+}
+.over1 h3{
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.over1 p{
+    font-size: medium;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.over2{
+    height: 50%;
+    width: 70%;
+    border-radius: 3%;
+    background-color: chocolate;
+}
+.over h4{
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.over p{
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.jump{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+}
+.keep{
+    height: 100%;
+    width: 50%;
+}
+.keep img{
+    height: 100%;
+    width: 100%;
+}
+.it{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.it h1{
+    font-size: bold;
+    color: darkcyan;
+}
+.it button{
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 900px;
+}
+.stormy{
+    height: 100vh;
+    width: 100%;
+}
+.sun{
+    height: 20%;
+    width: 100%;
+}
+.sun h3{
+    color: red;
+}
+.scott{
+    height: 35%;
+    width: 100%;
+    display: flex;
+    margin: 60px;
+}
+.head{
+    height: 100%;
+    width: 30%;
+}
+.head img{
+    height: 100%;
+    width: 90%;
+}
+.couch{
+    height: 100%;
+    width: 30%;
+}
+.couch img{
+    height: 100%;
+    width: 90%;
+}
+.get{
+    height: 100%;
+    width: 30%;
+}
+.get img{
+    height: 100%;
+    width: 90%;
+}
+.hike{
+    height: 30%;
+    width: 100%;
+    display: flex;
+    margin: 60px;
+}
+.hook{
+    height: 100%;
+    width: 30%;
+}
+.hook img{
+    height: 100%;
+    width: 90%;
+}
+.hyme{
+    height: 100%;
+    width: 30%;
+}
+.hyme img{
+    height: 100%;
+    width: 90%;
+}
+.dang{
+    height: 100%;
+    width: 30%;
+}
+.dang img{
+    height: 100%;
+    width: 90%;
+}
+.pool{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+}
+.swim{
+    height: 100%;
+    width: 50%;
+}
+.swim img{
+    height: 100%;
+    width: 100%;
+}
+.edge{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(70, 137, 252);
+}
+.edge h1{
+    font-size: 30px;
+    font-weight: 200;
+    color: white;
+    margin-left: 250px;
+}
+.hinge{
+    height:30%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.hinge h3{
+    font-weight: 100;
+}
+
+.adm{
+    height: 100%;
+    width: 40%;
+}
+
+
+.adm p{
+    color: white;
+}
+
+.method p{
+    color: white;
+}
+
+
+.method{
+    height: 100%;
+    width: 40%;
+}
+.on{
+    height: 30%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.on h3{
+    font-weight: 100;
+}
+.classes{
+    height: 100%;
+    width: 40%;
+}
+.classes p{
+    color: white;
+}
+.sucess p{
+    color: white;
+}
+.sucess{
+    height: 100%;
+    width: 40%;
+}
+.time{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.pretty{
+    height: 100%;
+    width: 100%;
+}
+.pretty h5{
+    color: red;
+    font-size: 200;
+    display: flex;
+}
+.pretty h1{
+    color: rgba(0, 0, 255, 0.625);
+    font-size: bold;
+    display: flex;
+}
+.coop{
+    height: 100%;
+    width: 100%;
+}
+.stall{
+    height: 100%;
+    width: 100%;
+}
+.stall video{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+}
+.give{
+    height: 100vh;
+    width: 100%;
+}
+.up{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.block{
+    height: 100%;
+    width: 30%;
+    background-color:antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.block h1{
+    color: red;
+}
+.block p{
+    color: rgba(0, 0, 0, 0.493);
+}
+.circle{
+    height: 100%;
+    width: 30%;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.circle h1{
+    color: red;
+}
+.circle p{
+    color: rgba(0, 0, 0, 0.493);
+}
+.lock{
+    height: 100%;
+    width: 30%;
+    background-color: chocolate;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.lock h1{
+    color: red;
+}
+.lock p{
+    color: rgba(0, 0, 0, 0.493);
+}
+.superb{
+    height: 20vh;
+    width: 100%;
+    background-color: red;
+    display: flex;
+    justify-content: space-evenly;
+}
+.superb h1{
+    color: white;
+}
+.superb button{
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+}
+.sunny{
+    height: 100vh;
+    width: 100%;
+}
+.crip{
+    height: 100%;
+    width: 100%;
+    display:flex;
+}
+.crip h1{
+    color: black;
+    font-size: 50px;
+}
+.tandy{
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly;
+}
+.giggle{
+    height: 100%;
+    width: 20%;
+    display: flex;
+}
+.giggle img{
+    height: 90%;
+    width: 100%;
+}
+.swap{
+    height: 100%;
+    width: 20%;
+    display: flex;
+}
+.swap img{
+    height: 90%;
+    width: 100%;
+}
+.ate{
+    height: 100%;
+    width: 20%;
+    display: flex;
+}
+.ate img{
+    height: 90%;
+    width: 100%;
+}
+.yart{
+    height: 100%;
+    width: 20%;
+    display: flex;
+}
+.yart img{
+    height: 90%;
+    width: 100%;
+}
+.join{
+    height: 100%;
+    width: 20%;
+    display: flex;
+}
+.join img{
+    height: 90%;
+    width: 100%;
+}
